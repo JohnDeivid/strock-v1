@@ -1,5 +1,5 @@
 node_modules/
+.wrangler/
+dist/
 .env
-.env.local
-.netlify/
-.vercel/
+wrangler.jsonc
